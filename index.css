@@ -1,0 +1,58 @@
+.topWordDiv {
+    color: white;
+    /* position: absolute; */
+    
+    top: 0px;
+    /* left: 35%; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    /* margin: auto; */
+    
+}
+
+.bottomWordDiv {
+    color: white;
+    /* position: absolute; */
+    bottom: 0px;
+    /* left: 35%; */
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    /* margin: auto; */
+    /* display: inline-block;
+    width: 500px; */
+}
+
+.container {
+    position: relative;
+    background-color: rgb(202, 202, 202);
+    border-color: black;
+    border-style: solid;
+    border: solid;
+    display: inline-block;
+    padding-right: 50px;
+}
+
+/* .container:hover {
+    background-color: black;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh3Wrbmi_0k4Gw2hDjIzDpku8WPHyY-5W9mQ&usqp=CAU');
+
+} */
+
+#btn {
+background-color: greenyellow;
+font-weight: bold;
+}
+
+ form {
+    background-color: black;
+ }
+
+ label {
+    color: greenyellow;
+    font-size: 25px;
+    font-weight: bold;
+ }
+
+
